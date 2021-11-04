@@ -1,5 +1,5 @@
 import React from 'react';
-import { storiesOf } from '@storybook/react-native';
+import { storiesOf } from '@storybook/react';
 import { withKnobs } from '@storybook/addon-knobs';
 import { View, StyleSheet } from 'react-native';
 import { Example as Basic } from './Basic';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { storiesOf } from '@storybook/react-native';
+import { storiesOf } from '@storybook/react';
 import { withKnobs } from '@storybook/addon-knobs';
 import Wrapper from './../../components/Wrapper';
 import { Example as MinWidth } from './min-width';

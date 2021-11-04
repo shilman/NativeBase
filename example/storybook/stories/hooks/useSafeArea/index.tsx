@@ -1,6 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
-import { storiesOf } from '@storybook/react-native';
+import { storiesOf } from '@storybook/react';
 import { withKnobs } from '@storybook/addon-knobs';
 import { Example as Flexible } from './Flexible';
 import { Example as Fixed } from './Fixed';

@@ -5,7 +5,7 @@ import {
   getStorybookUI,
   configure,
   addDecorator,
-} from '@storybook/react-native';
+} from '@storybook/react';
 import { withKnobs } from '@storybook/addon-knobs';
 
 import './rn-addons';
